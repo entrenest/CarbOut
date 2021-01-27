@@ -1,0 +1,66 @@
+apple
+bacon
+beef
+beer
+biscuits
+brussel sprouts
+buffalo wings
+carrots
+cheese pizza
+cheeseburger
+chicken breast
+citrus
+cocktail
+coleslaw
+corn
+cornbread
+crab
+cranberry sauce
+eggs
+fried chicken
+fried egg
+fried green tomatoes
+fries
+fruits
+granola bar
+gravy
+green beans
+ham
+hash browns
+key lime pie
+lamb
+lobster roll
+macaroon
+mashed potatoes
+mussels
+oatmeal
+orange juice
+pancakes
+parfait
+pasta
+pb&j
+peach cobbler
+pears
+pepperoni pizza
+pepperoni slice
+pesto
+pho
+poke
+poutine
+ramen
+salad
+sandwich
+sausage
+sausage pizza
+sausage slice
+shrimp
+steak
+strawberries
+sub
+sushi
+tequila
+toast
+turkey
+vegetables
+whiskey
+wine
